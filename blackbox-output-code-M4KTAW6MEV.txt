@@ -1,0 +1,4 @@
+1. Click "New" (green button)
+2. Repository name: `socialboost-site` (or any name)
+3. Check "Add a README file"
+4. Click "Create repository"
